@@ -11,7 +11,7 @@
 [TOC]
 
 ![](./lks.jpg)
-![](./timg.jpeg)
+
 ## GIT简介
 
 1. 什么是GIT

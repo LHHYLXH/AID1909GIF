@@ -7,7 +7,9 @@ while True:
     # str -> bytes
     s1 = s.encode()
     print("对应的字节串为:", s1)
+    print("======================================")
     #所有的字符串都能转换为字节串,但是所有的字节串不能转换为字符串
     # bytes -> str
     s = s1.decode()
     print("对应的字符串为:", s)
+
